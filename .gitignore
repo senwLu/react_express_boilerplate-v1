@@ -3,7 +3,8 @@ logs
 *.log
 
 # Dependency directories
-node_modules/
+node_modules
+dist
 
 # other
 .DS_Store

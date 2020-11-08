@@ -1,1 +1,1 @@
-# react_express_boilerplate-v1
+A React + Express boilerplate w/o webpack-dev-server
